@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh-Kumar0502
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Node.js, ExpessJs, MongoDB.
+- 🌱 I’m currently learning Node.js, ExpessJs, MongoDB, React
 - 📫 How to reach me : ashutosh997350@gmail.com
 
 <!---
